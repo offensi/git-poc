@@ -3,21 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "WebHook1",
-				"type": "WebHook",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"url": "https://recon.offensi.com/asdfasdf",
-					"method": "POST",
-					"headers": {
-						"Metadata": "True"
-					},
-					"timeout": "00:10:00"
-				}
-			},
-			{
-				"name": "Web1",
+				"name": "Web12",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
