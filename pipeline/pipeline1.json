@@ -8,7 +8,7 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"url": "http://recon.offensi.com/",
+					"url": "https://recon.offensi.com/",
 					"method": "POST",
 					"headers": {
 						"Metadata": "True"
