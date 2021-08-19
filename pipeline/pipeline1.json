@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": "http://recon.offensi.com:6666",
+					"url": "http://recon.offensi.com",
 					"method": "GET",
 					"headers": {
 						"Myway": "true"
